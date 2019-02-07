@@ -1,10 +1,12 @@
 # CZ2006-Project---Chinam
-Our Team "Chinam":
-Tran Huu Hoang (Leader)\n
-Nguyen Doan Hoang Lam\n
-Trinh Tuan Dung
-Benjamin Loh
-Tan Zhi Yang
-Hongyu
+CZ2006 Group SS6
 
-An android app to help user find their future home!!!
+Our Team "Chinam":
+Tran Huu Hoang (Leader) ---
+Nguyen Doan Hoang Lam ---
+Trinh Tuan Dung ---
+Benjamin Loh ---
+Tan Zhi Yang ---
+Hongyu 
+
+This is an android app to help user find their future home!!!
