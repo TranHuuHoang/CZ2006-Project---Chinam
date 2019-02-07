@@ -9,4 +9,4 @@ Benjamin Loh ---
 Tan Zhi Yang ---
 Hongyu 
 
-This is an android app to help user find their future home!!!
+This is an android app to help user find their future home!!! Our database will be based on data from HDB.
