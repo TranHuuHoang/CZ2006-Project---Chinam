@@ -5,7 +5,7 @@ Our Team "Chinam":
 Tran Huu Hoang (Leader) ---
 Nguyen Doan Hoang Lam ---
 Trinh Tuan Dung ---
-Benjamin Loh ---
+Benjamin Loh Wen Qian ---
 Tan Zhi Yang ---
 Zhou Hongyu 
 
