@@ -1,0 +1,3 @@
+[submodule "AndroidHDBApp"]
+	path = AndroidHDBApp
+	url = https://github.com/tanzyy96/AndroidHDBApp.git
